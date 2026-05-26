@@ -1,0 +1,6 @@
+municipio,E,X,M,PH_x,PH_y,Ph_x,Ph_y,Fonte_E,Fonte_X,Fonte_M,Fonte_PHx,Fonte_PHy,Fonte_Phx,Fonte_Phy
+Sao Gabriel do Oeste (BR),0.62,0.75,0.65,0.50,0.55,0.68,0.62,IBGE,OCB/MT,RAIS,STN/FINBRA,MAPA,IPEA-Mapas,SEBRAE
+Romagna (IT),0.84,0.82,0.73,0.32,0.60,0.80,0.70,ISTAT,Osservatorio distretti,ISTAT-RFL,Eurostat,ISTAT-ASIA,ISTAT-Censimento,EPO
+Zouping (CN),0.85,0.80,0.70,0.40,0.65,0.78,0.68,China Statistical Yearbook,NBS,MOHRSS,NDRC,NBS,All-China Federation,MOST
+Nova Nazare (BR),0.32,0.28,0.08,0.90,0.92,0.12,0.10,IBGE,IBGE-MUNIC,RAIS,STN,IBGE,OCB,RAIS
+McDowell (EUA),0.28,0.15,0.10,0.95,0.98,0.05,0.05,US Census ACS,County Business Patterns,IRS SOI,BEA,MSHA,NCCS,ACS
